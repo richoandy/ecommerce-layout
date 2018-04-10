@@ -1,0 +1,84 @@
+@media screen and (min-width: 780px) {
+ #footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+ }
+
+ #categories {
+    margin-top: 3em;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .popular {
+        margin-left: 2em;
+    }
+}
+
+.row-index {
+    margin-left: 2em;
+}
+
+#categories {
+    margin-top: 2em;
+}
+
+.items {
+    width: 200px;
+    height: 200px;
+}
+
+.card-margin-top {
+    margin-top: 2em;
+}
+
+.top-margin{
+    margin-top: 2em;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.card-items {
+    margin-bottom: 2em;
+    border : 1px solid;
+    margin-right: 1em;
+}
+
+.img {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+
+.btnCart {
+    margin-bottom: 0.3em
+}
+
+.spinner {
+    width: 3em
+}
+
+.item {
+    width: 15em;
+    height: 5em;
+}
+
+table {
+    border: yellow dashed;
+}
+
+td {
+    text-align: center;
+}
+
+.row-index {
+    
+}
